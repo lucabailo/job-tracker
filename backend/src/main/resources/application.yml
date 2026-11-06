@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: job-tracker
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/jobtracker}
+    username: ${DB_USER:jobtracker}
+    password: ${DB_PASSWORD:jobtracker}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none   # the schema is owned by Flyway migrations
+  flyway:
+    enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+
+springdoc:
+  swagger-ui:
+    path: /api/docs
+  api-docs:
+    path: /api/openapi

@@ -1,0 +1,32 @@
+{
+  "source": "daily-job-search",
+  "exportedAt": "2026-11-06T12:55:48.174Z",
+  "jobs": [
+    {
+      "title": "3Shape Graduate Program, Technical",
+      "company": "3Shape",
+      "location": "Copenhagen (Kongens Nytorv)",
+      "hours": "Full-time",
+      "category": "Sviluppo software",
+      "deadline": "2026-12-15",
+      "url": "https://careers.3shape.com/jobs/8395827-3shape-graduate-program-technical",
+      "source": "3Shape Careers",
+      "why": "Graduate programme full-time di 2 anni per neolaureati magistrali con partenza a settembre 2027 (dopo la tua laurea di luglio), rotazioni in software development, data e IT; lingua aziendale inglese, danese non richiesto.",
+      "danishRequired": false,
+      "foundAt": "2026-11-06"
+    },
+    {
+      "title": "Junior Full-stack Developer",
+      "company": "Mercive",
+      "location": "Copenhagen",
+      "hours": "Full-time",
+      "category": "Sviluppo software",
+      "deadline": "",
+      "url": "https://thehub.io/jobs/6abd6cc398a7d0be1e1af5aa",
+      "source": "The Hub",
+      "why": "Ruolo junior full-time (fino a 2 anni di esperienza o formazione/progetti rilevanti) con JavaScript, React/Next.js e Node.js: combacia col tuo progetto e-commerce React/TypeScript/Express; pubblicato il 13/10, ancora attivo.",
+      "danishRequired": false,
+      "foundAt": "2026-11-06"
+    }
+  ]
+}
